@@ -21,4 +21,4 @@ Weather Analysis and Observations:
 ![Lat_vs_Hum](output_data/Lat_vs_Hum.png)
 
 ![Wind Speed Vs Lat](output_data/WindSpeed_vs_Lat.png)
-![Wind Speed](output_data/l]Lat_vs_WS.png)
+![Wind Speed](output_data/Lat_vs_WS.png)
