@@ -1,8 +1,8 @@
 # python-api-challenge
 
+[Weather Latitude Website](https://carleeyoung.github.io/Web-Design-Challenge/Data.html)
+
 Weather data was collected from more than 500 cities generated from randomly selected latitude and longitude coordinates.  Relationships between latitude and temperature, humidity, cloudiness, and wind speed were analyzed. From these results, the list was restricted by pre-determined "ideal" weather conitions.  From the reduced data set of cities with ideal weather conditions, the nearest hotels were found and mapped.
-
-
 
 Weather Analysis and Observations:
 
@@ -11,14 +11,14 @@ Weather Analysis and Observations:
 * Southern hemisphere temperatures are directly proportional to latitude and norhtern hemisphere temperatures are inversely proportional to latitude. As latitude increases, temperature increases if you are in the southern hemisphere. As latitude decreases, temperature increases if you are in the northern hemisphere.
 * Peak temperatures occur at 20 degrees north of the equator. Looking at seasonal data would be interesting to investgate the impact of the tilting of the Earth on its axis with respect to the latitude of peak temperatures in different seasons.
 
-![Temperature Vs Latitude](output_data/MaxTemperature_vs_Lat.png)
-![Temp V Lat](output_data/Lat_vs_Temp.png)
+![Temperature Vs Latitude](output_data/MaxTemperature_vs_Lat.png)  ![Temp V Lat](output_data/Lat_vs_Temp.png)
 
-![Cloudiness_vs_Lat](output_data/Cloudiness_vs_Lat.png)
-![Cloud V Lat](output_data/Lat_vs_Cld.png)
 
-![Humidity vs Lat](output_data/Humidity_vs_Lat.png)
-![Lat_vs_Hum](output_data/Lat_vs_Hum.png)
+![Cloudiness_vs_Lat](output_data/Cloudiness_vs_Lat.png)  ![Cloud V Lat](output_data/Lat_vs_Cld.png)
 
-![Wind Speed Vs Lat](output_data/WindSpeed_vs_Lat.png)
-![Wind Speed](output_data/Lat_vs_WS.png)
+
+![Humidity vs Lat](output_data/Humidity_vs_Lat.png)  ![Lat_vs_Hum](output_data/Lat_vs_Hum.png)
+
+
+![Wind Speed Vs Lat](output_data/WindSpeed_vs_Lat.png)  ![Wind Speed](output_data/Lat_vs_WS.png)
+
